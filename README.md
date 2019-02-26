@@ -1,2 +1,2 @@
 # ApolloGuidanceComputer
-Public Repository For Apollo Guidance Computer (Emulation)
+Public Repository For Apollo Guidance Computer
